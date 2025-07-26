@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 API Posts App
 
 A simple Flutter app that fetches and displays data from JSONPlaceholder.
@@ -17,3 +18,6 @@ https://jsonplaceholder.typicode.com/posts
 ```bash
 flutter pub get
 flutter run
+=======
+# api_posts_app
+>>>>>>> a74c51546ae2f6fb151f04de4a726a644d90603e
